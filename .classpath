@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="jar"/>
+	<classpathentry kind="src" path="jigloo GUI Builder.3.9.5"/>
+	<classpathentry kind="src" path="jigloo GUI Builder.4.6.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
